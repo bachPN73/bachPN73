@@ -2,7 +2,6 @@
 
 # 👋 Hello! I'm Phạm Ngọc Bách
 
-**Student at FPT University | Aspiring AI & Data Engineer**
 
 Hi! I'm a university student majoring in Artificial Intelligence at FPT University. I'm passionate about data and how Machine Learning, Computer Vision, and Large Language Models (LLMs) can be applied to solve real-world problems. I have also participated in AI-related research, developing my ability to analyze data, think critically, and solve complex problems. I hope to grow in a professional environment, contribute to meaningful projects and research, and become a professional AI Engineer.
 
