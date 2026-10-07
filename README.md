@@ -4,7 +4,7 @@
 
 **Student at FPT University | Aspiring AI & Data Engineer**
 
-I have a strong passion for Data Science and Artificial Intelligence. I enjoy analyzing data, uncovering hidden patterns, and building machine learning models to solve real-world problems. My ultimate goal is to become a professional AI/Data Engineer and contribute valuable solutions to the community.
+I am passionate about Data Science and Artificial Intelligence, with a strong interest in turning data into meaningful and practical solutions. I enjoy exploring data, discovering patterns, and developing machine learning models to solve real-world problems. My interests also extend to Large Language Models (LLMs), Generative AI, and Computer Vision, where I am continuously learning and experimenting with new ideas. My goal is to grow as an AI/Data Engineer and build impactful AI-driven solutions that can bring value to the community.
 
 </div>
 
